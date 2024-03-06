@@ -1,0 +1,31 @@
+Requirements
+	Mandatory
+•	There has to be cats
+o	Cats spawn on the top of the screen
+•	There must be a spray bottle
+•	Spray bottle must shoot water
+o	Spray bottle is aim based
+o	Able to move around the whole screen
+•	Water has to knockback the cats
+•	Cats have a status bar to show how angry they are
+•	The angrier the cats the faster they move
+•	There is a cup to protect from the cats
+o	Cup is in the bottom of the screen
+•	Game is over when a cat touches the cup
+•	Pause Screen
+•	Pause screen has buttons to restart or exit game
+Optional
+•	Prompt user to enter UserName
+•	There is a high score system
+•	Leaderboard with high scores
+•	There must be a point system
+•	The point system is how many times you knockback the cats
+•	There is a multiplier for each cat on the screen
+•	Music in the game
+o	Cat ringtone 
+•	Pause screen has audio settings
+1st Sprint
+	Requirements:
+		Start the game
+		Spawn cats
+
