@@ -1,3 +1,4 @@
+
 // cat two
 using System.Drawing;
 
@@ -16,3 +17,4 @@ using (Graphics graphics = Graphics.FromImage(catImage))
 
 // Save the cat image to a file
 catImage.Save("cat_image.jpg"); // Replace "cat_image.jpg" with the desired file path and name
+
